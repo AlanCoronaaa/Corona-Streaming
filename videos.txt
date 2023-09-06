@@ -1,0 +1,48 @@
+s 3 The_Blacklist Drama 100 5
+8
+1 1 Piloto 45
+1 2 El_independiente 40
+1 3 Wujing 42
+1 4 El_creador_de_guisados 41
+2 1 Lord_Baltimore 43
+2 2 Banco_Monarch_Douglas 43
+2 3 Doctor_James_Covington 43
+2 4 Doctor_Linus_Creel 42
+p 2 Parasite Comedia 1530 4 131
+p 1 Llámame_por_tu_nombre LGBTQ 1 5 132
+s 4 Sense8 Ciencia_ficción 1 5
+4
+1 1 Resonancia_límbica 67
+1 2 Estamos_unidos 54
+2 1 Feliz_Año_Nuevo_de_m**rda 124
+2 2 ¿Quién_soy? 55
+p 5 Entre_navajas_y_secretos Comedia 2 4.5 130
+s 6 Club_de_Cuervos Comedia 8 2
+7
+1 1 Sé_un_capitan 43
+1 2 Hacemos_jabón 43
+2 1 Descenso 38
+2 2 Bienvenidos_a_Segunda 43
+3 1 La_tercera_generación 41
+3 2 El_tratado_de_Versailles_14 40
+4 1 Diego_Villalobos 54
+p 7 El_precio_del_mañana Ciencia_ficción 29 1 109
+p 8 Inception Ciencia_ficción 148 4.5 120
+s 5 Breaking Bad Drama 62 5
+6
+1 1 Pilot 58
+1 2 Cat's in the Bag... 59
+2 1 Seven Thirty-Seven 60
+2 2 Grilled 61
+3 1 One Minute 62
+3 2 Full Measure 63
+p 9 The Shawshank Redemption Drama 142 5 250
+s 7 Game of Thrones Fantasía 73 4.5
+8
+1 1 Winter Is Coming 74
+1 2 The Kingsroad 75
+2 1 The North Remembers 76
+2 2 The Night Lands 77
+3 1 Walk of Punishment 78
+3 2 And Now His Watch Is Ended 79
+p 10 The Dark Knight Acción 152 4.5 120
